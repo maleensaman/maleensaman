@@ -1,8 +1,8 @@
-# 👨‍💻 Maleen Saman - Senior Full-Stack Developer
+# Maleen Saman - Senior Full-Stack Developer
 
-Welcome to my GitHub! I'm a passionate developer crafting **scalable, high-performance web applications** with **React**, **Next.js**, **Node.js**, **Python**, and **AWS**. My work focuses on delivering measurable impact—think **84% latency reductions**, **28% conversion boosts**, and pipelines processing **500K+ records/min**. Let's build something amazing together! 🚀
+Welcome to my GitHub! I'm a passionate developer crafting **scalable, high-performance web applications** with **React**, **Next.js**, **Node.js**, **Python**, and **AWS**. My work focuses on delivering measurable impact—think **84% latency reductions**, **28% conversion boosts**, and pipelines processing **500K+ records/min**. Let's build something amazing together!
 
-🌐 [Portfolio](https://saman-portfolio-rho.vercel.app/) | 📧 [maleensaman@gmail.com](mailto:maleensaman@gmail.com) | 📍 Vavuniya, Sri Lanka
+[Portfolio](https://saman-portfolio-rho.vercel.app/) | [maleensaman@gmail.com](mailto:maleensaman@gmail.com) | Vavuniya, Sri Lanka
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maleensaman&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maleensaman&layout=compact&theme=radical)
@@ -20,7 +20,7 @@ I specialize in **full-stack development**, architecting robust systems that sca
 - **Testing**: Jest, Playwright, Pytest (92%+ code coverage)
 - **Data**: Kafka, Pandas, Airflow for ETL pipelines
 
-I’m all about **performance optimization**, **event-driven architecture**, and **clean code**. Check out my repos for examples of CI/CD pipelines, microservices, and real-time systems! 🛠️
+I’m all about **performance optimization**, **event-driven architecture**, and **clean code**. Check out my repos for examples of CI/CD pipelines, microservices, and real-time systems!
 
 ---
 
@@ -35,7 +35,7 @@ I’m all about **performance optimization**, **event-driven architecture**, and
 
 ## 📂 Featured Projects
 
-### 🎨 Antique Arena Auction Platform
+### Antique Arena Auction Platform
 [antiquearena.com](https://antiquearena.com)  
 A real-time auction platform handling 100+ auctions yearly with 99.9% uptime.
 
@@ -44,7 +44,7 @@ A real-time auction platform handling 100+ auctions yearly with 99.9% uptime.
 - **DevOps**: GitHub Actions, Terraform for zero-downtime deployments
 
 
-### 🛒 Business Management System
+### Business Management System
 A platform for a luxury watch retailer processing 5,000 daily transactions at sub-200ms response times.
 
 - **Stack**: React, Next.js, NestJS, PostgreSQL, Kafka, Python
